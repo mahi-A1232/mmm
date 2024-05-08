@@ -1,0 +1,37 @@
+.loginFormExternal-label{
+    font-size:15px;
+    font-family:"playfair display";
+    font-weight:bold;
+}
+.signup-button{
+    border-color:#e8e4df;
+    background-color:transparent;
+    height:50px;
+    width:100%;
+    border-width:1px;
+    font-size:20px;
+    font-family:"playfair";
+}
+.login-button{
+    border-color:#e8e4df;
+    background-color:#f2f5e4;
+    height:50px;
+    width:100%;
+    border-width:1px;
+    border-bottom-width:0px;
+    font-size:20px;
+    font-family:"playfair";
+}
+.login-signup-container{
+    border-color:gray;
+    border-style:solid;
+    border-width:1px;
+}
+.signup-form-container{
+    padding:10px;
+}
+.login-form-label{
+    font-size:15px;
+    font-family:"playfair display";
+    font-weight:bold;
+}
